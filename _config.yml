@@ -1,6 +1,6 @@
 name: DavidLoosen
 favicon: null
-layout_spectrum: 0.8273771547246724
+layout_spectrum: 0.76035
 typography_spectrum: 0.4897101470269263
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5243503348901868
-  lightness: 0.9446881997864693
-  saturation: 0.8488718795124441
+    - '#39a9dc'
+    - '#ffffff'
+    - '#e0f1f9'
+    - '#91cfeb'
+    - '#b3def1'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.8125
   rhythmicContrast: 0.23624722263775766
 purpose: []
