@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DavidLoosen]]></title>
-        <description><![CDATA[DavidLoosen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[David R. Loosen]]></title>
+        <description><![CDATA[David R. Loosen]]></description>
+        <link>https://thegrid.ai/davidloosen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 08:10:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 08:57:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidloosen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c23147a4b622b5075fcb2688d96fdf9a5bb536b1.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/davidloosen/ebcd6e65-5888-49f6-848b-7f98c47a6ca0/index.html</link>
+            <guid isPermaLink="false">ebcd6e65-5888-49f6-848b-7f98c47a6ca0</guid>
+            <pubDate>Thu, 28 Apr 2016 08:57:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parabolic Flight]]></title>
             <description><![CDATA[<article><h1>Parabolic Flight</h1><p>22 seconds of weightlessness</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc4900adfee9dbb2318c7c501f485f99c517f28.jpg"></article>]]></description>
